@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatinverma9728" alt="jatinverma9728" /></a> </p>
 
-- 🔭 I’m currently working on [Chawlaarchitects](https://www.chawlaarchitects.com/)
+- 🔭 I’m currently working on [Norty Tech Hub](https://www.notrhh.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://jatinverma.vercel.app/](https://jatinverma.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://averiq.vercel.app/](https://averiq.vercel.app/)
 
-- 📫 How to reach me **https://www.averiq.vercel.app/**
+- 📫 How to reach me **https://www.jatinverma.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
