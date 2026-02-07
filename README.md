@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [North Tech Hub](https://www.notrhtechhub.in/)
 
-- 👨‍💻 All of my projects are available at [https://averiq.vercel.app/](https://averiq.in/)
+- 👨‍💻 All of my projects are available at [https://averiq.in/](https://averiq.in/)
 
 - 📫 How to reach me **https://www.devjatin.in/**
 
