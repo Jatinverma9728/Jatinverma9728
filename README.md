@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://averiq.in/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MERN+%26+Next.js;Crafting+High-End+Digital+Experiences;Founder+at+Averiq;Building+Scalable+Web+%26+Mobile+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MERN+%26+Next.js;Crafting+High-End+Digital+Experiences;Building+Scalable+Web+%26+Mobile+Apps" alt="Typing SVG" />
   </a>
 </p>
 
@@ -101,5 +101,5 @@ I specialize in building scalable, modern architectures with a heavy focus on cl
 ---
 
 <div align="center">
-  <p><img src="https://visitcount.itsvg.in/api?id=Jatinverma9728&icon=0&color=13" alt="Profile Views"></p>
+  <p><img src="https://komarev.com/ghpvc/?username=Jatinverma9728&label=Profile%20Views&color=00C7B7&style=flat-square" alt="Profile Views"></p>
 </div>
