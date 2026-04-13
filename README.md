@@ -1,5 +1,10 @@
 <h1 align="center">Hi there, I'm Jatin Verma 👋</h1>
-<h3 align="center">Full-Stack Developer | Crafting Minimal & High-End Digital Experiences</h3>
+
+<p align="center">
+  <a href="https://averiq.in/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MERN+%26+Next.js;Crafting+High-End+Digital+Experiences;Founder+at+Averiq;Building+Scalable+Web+%26+Mobile+Apps" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://averiq.in/" target="_blank">
@@ -21,27 +26,40 @@
   <a href="mailto:vermajatin477@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="100%">
+</p>
 
 ### 💫 About Me
 
 I specialize in building scalable, modern architectures with a heavy focus on clean code, seamless micro-interactions, and AI-driven automation workflows. 
 
-- 🔭 **Currently Building:** High-performance web and mobile solutions at my agency, **Averiq**, and expanding **NorthTechHub**.
+- 🔭 **Currently Building:** High-performance web and mobile solutions at **Averiq**, and expanding **NorthTechHub**.
 - 💻 **Core Stack:** MERN, Next.js, and React Native for cross-platform mobile development.
-- 🚀 **Passionate About:** Technical SEO, programmatic ranking, integrating AI (Gemini, n8n), and crafting premium UI/UX designs.
+- 🚀 **Passionate About:** Technical SEO, programmatic ranking, AI integration, and crafting premium UI/UX designs.
 - 🎓 **Education:** Pursuing my Master of Computer Applications (MCA).
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="100%">
+</p>
 
-### 🚀 Featured Projects
+### 🚀 UI/UX & Project Showcase
+*Smooth micro-interactions and cross-platform builds.*
 
-* **Accharam:** A full-scale, professional e-commerce platform equipped with a comprehensive admin backend and database for an authentic startup brand.
+<p align="center">
+  <img src="https://cdn.dribbble.com/userupload/8542566/file/original-d1e99818abf561cc6c867edbc0f4f71d.gif" width="45%" alt="AverWalls App UI Showcase">
+  &nbsp; &nbsp;
+  <img src="https://cdn.dribbble.com/userupload/8542566/file/original-d1e99818abf561cc6c867edbc0f4f71d.gif" width="45%" alt="Campus Canteen POS UI Showcase">
+</p>
+
+* **Accharam:** A full-scale, professional e-commerce platform equipped with a comprehensive admin backend.
 * **AverWalls:** A cross-platform React Native mobile application delivering high-quality, AI-generated wallpapers.
-* **Campus Canteen POS:** An offline-first, native mobile application serving as a complete POS billing and order tracking system.
-* **iconverts:** A robust, professional-grade file utility platform for seamless image and PDF conversions.
+* **Campus Canteen POS:** An offline-first, native mobile POS billing and order tracking system.
+* **iconverts:** A robust file utility platform for seamless image and PDF conversions.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="100%">
+</p>
 
 ### 💻 Tech Stack
 
@@ -52,9 +70,11 @@ I specialize in building scalable, modern architectures with a heavy focus on cl
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **Tools, Cloud & DevOps**<br>
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="100%">
+</p>
 
 ### 📊 GitHub Analytics
 
@@ -65,6 +85,17 @@ I specialize in building scalable, modern architectures with a heavy focus on cl
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatinverma9728&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🐍 Contribution Graph</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jatinverma9728/Jatinverma9728/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jatinverma9728/Jatinverma9728/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jatinverma9728/Jatinverma9728/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
