@@ -18,6 +18,7 @@
   </a>
 </p>
 
+
 <p align="center">
   <a href="https://discord.gg/Q6ARqwAY"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://instagram.com/iamjatin_vrma"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"></a>
