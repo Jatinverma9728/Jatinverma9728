@@ -5,7 +5,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MERN+%26+Next.js;Crafting+High-End+Digital+Experiences;Building+Scalable+Web+%26+Mobile+Apps" alt="Typing SVG" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://averiq.in/" target="_blank">
     <img src="https://img.shields.io/badge/Agency-Averiq-black?style=for-the-badge&logo=vercel" alt="Averiq">
