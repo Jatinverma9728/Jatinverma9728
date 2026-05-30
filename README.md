@@ -1,17 +1,25 @@
-````md
 <!-- ========================================================= -->
-<!--                 JATIN VERMA — GITHUB README               -->
+
+<!--                 JATIN VERMA — PREMIUM README              -->
+
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,45:0F172A,75:2563EB,100:06B6D4&text=Jatin%20Verma&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20Next.js%20%E2%80%A2%20Scalable%20Web%20Apps&descSize=18&descAlignY=58" width="100%" />
+<!-- HERO BANNER -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:0F172A,70:1D4ED8,100:06B6D4&text=Jatin%20Verma&fontSize=68&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20Next.js%20%E2%80%A2%20Scalable%20Web%20Applications&descAlignY=58&descSize=18" />
+
+<!-- TYPING LINE -->
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Production-Ready+Full-Stack+Applications;Creating+Modern%2C+Fast+%26+Responsive+User+Interfaces;MERN+Stack+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Exploring+DevOps%2C+Docker%2C+AWS+%26+AI+Automation" alt="Typing SVG" />
+</a>
 
 <br />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Scalable+Full-Stack+Applications;Crafting+Modern+%26+High-Performance+UI;MERN+Stack+%7C+Next.js+%7C+TypeScript;Learning+DevOps%2C+Cloud+%26+System+Design)](https://git.io/typing-svg)
-
 <br />
+
+<!-- PRIMARY LINKS -->
 
 <a href="mailto:vermajatin477@gmail.com">
   <img src="https://img.shields.io/badge/Email-vermajatin477%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -26,115 +34,151 @@
 <br />
 <br />
 
+<!-- SMALL BADGES -->
+
 <img src="https://komarev.com/ghpvc/?username=Jatinverma9728&label=Profile%20Views&color=38bdf8&style=flat-square" />
+<img src="https://img.shields.io/badge/Open%20To-Internships%20%7C%20Freelance%20%7C%20Full--Time-22C55E?style=flat-square" />
+<img src="https://img.shields.io/badge/Location-India-38BDF8?style=flat-square" />
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+<!-- ========================================================= -->
 
-<table>
+<!--                        PROFILE CARD                       -->
+
+<!-- ========================================================= -->
+
+<table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
+
+## 👨‍💻 About Me
 
 ```ts
 const jatinVerma = {
   role: "Full-Stack Developer",
-  focus: "Scalable Web Apps & Modern UI Engineering",
-  stack: ["MERN", "Next.js", "TypeScript", "Tailwind CSS"],
-  currentlyLearning: ["DevOps", "Docker", "AWS", "CI/CD", "System Design"],
-  mindset: "Build fast. Optimize deeply. Design beautifully.",
+  specialization: "MERN Stack, Next.js & Scalable Web Applications",
+  education: "MCA - Guru Jambheshwar University",
+  experience: "Frontend Developer Intern & Team Lead @ SmallFare",
+
+  coreStack: [
+    "React.js",
+    "Next.js",
+    "TypeScript",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Tailwind CSS"
+  ],
+
+  currentlyExploring: [
+    "DevOps",
+    "Docker",
+    "AWS",
+    "CI/CD Pipelines",
+    "AI Agents",
+    "Cloud Deployment"
+  ],
+
+  mindset: "Build fast. Optimize deeply. Design beautifully."
 };
-````
+```
 
-I’m a **Full-Stack Developer** focused on building scalable, high-performance, and user-friendly web applications.
+I’m a **Full-Stack Developer** focused on building scalable, modern, and high-performance web applications.
 
-I work mainly with the **MERN Stack, Next.js, TypeScript, Tailwind CSS, MongoDB, Express.js, Node.js**, and modern frontend animation tools like **GSAP, Three.js, and Framer Motion**.
+My work mainly revolves around **MERN Stack, Next.js, TypeScript, Node.js, Express.js, MongoDB, Tailwind CSS**, and modern UI engineering with animation-focused experiences.
 
-Currently, I’m pursuing **MCA** and expanding my skills in **DevOps, cloud deployment, containerization, CI/CD pipelines, and scalable backend architecture**.
-
-</td>
-<td width="40%" valign="top">
-
-### ⚡ Quick Highlights
-
-* 🧑‍💻 Full-Stack Developer
-* 🚀 MERN & Next.js focused
-* 🧩 50+ production components built
-* ⚡ 70% UI responsiveness improvement
-* 📉 30% page load time reduction
-* 🔐 JWT, OAuth & Razorpay integration
-* ☁️ Learning DevOps, Docker & AWS
+Currently, I’m pursuing **Master of Computer Applications** and actively expanding my skills in **DevOps, cloud deployment, containerization, CI/CD pipelines, and AI-powered automation systems**.
 
 </td>
-</tr>
-</table>
 
----
+<td width="42%" valign="top">
 
-## 🧠 Professional Snapshot
-
-<div align="center">
+## ⚡ Developer Snapshot
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center">
 <h3>50+</h3>
-<p>Components Built</p>
+<p>UI Components</p>
 </td>
-<td align="center" width="25%">
-<h3>70%</h3>
-<p>UI Responsiveness Improved</p>
-</td>
-<td align="center" width="25%">
-<h3>30%</h3>
-<p>Load Time Reduced</p>
-</td>
-<td align="center" width="25%">
+<td align="center">
 <h3>60+</h3>
-<p>API Endpoints Built</p>
+<p>API Endpoints</p>
 </td>
 </tr>
 <tr>
-<td align="center" width="25%">
-<h3>1000+</h3>
-<p>Users Supported</p>
+<td align="center">
+<h3>70%</h3>
+<p>Better UI Responsiveness</p>
 </td>
-<td align="center" width="25%">
+<td align="center">
+<h3>30%</h3>
+<p>Faster Page Loads</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<h3>1000+</h3>
+<p>Concurrent Users</p>
+</td>
+<td align="center">
 <h3>95+</h3>
 <p>Lighthouse Score</p>
 </td>
-<td align="center" width="25%">
-<h3>16</h3>
-<p>MongoDB Collections</p>
-</td>
-<td align="center" width="25%">
-<h3>5+</h3>
-<p>Payment Methods</p>
+</tr>
+</table>
+
+<br />
+
+### 🎯 Focus Areas
+
+* Full-Stack Web Development
+* Scalable Backend Systems
+* Modern Frontend Architecture
+* Performance Optimization
+* AI Chatbot Integration
+* Payment Gateway Integration
+* DevOps & Cloud Deployment
+
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
+
+<!-- ========================================================= -->
+
+<!--                         EXPERIENCE                        -->
+
+<!-- ========================================================= -->
 
 ## 💼 Experience
 
-<table>
+<table width="100%">
 <tr>
 <td>
 
-### Frontend Developer Intern & Team Lead — SmallFare
+### 🚀 Frontend Developer Intern & Team Lead — SmallFare
 
 **March 2025 – June 2025**
 
-* Led frontend development initiatives and contributed to a better website experience.
-* Developed and integrated **50+ modular UI components**.
-* Improved UI responsiveness by **70%**.
-* Reduced website load time by **30%**.
-* Built smooth animations, responsive layouts, and modern interfaces.
+<br />
+
+<img src="https://img.shields.io/badge/Role-Team%20Lead-38BDF8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Impact-Performance%20Optimization-22C55E?style=for-the-badge" />
+
+<br />
+<br />
+
+* Led frontend development initiatives to improve website experience and responsiveness.
+* Developed and integrated **50+ modular components** with clean structure and reusable design.
+* Improved overall **UI responsiveness by 70%**, resulting in better user interaction.
+* Reduced website **page load time by 30%** through optimized frontend implementation.
+* Built smooth animations, responsive layouts, and enhanced visual experiences.
 * Worked with **React.js, Next.js, TypeScript, Tailwind CSS, HTML, CSS, and JavaScript**.
 * Collaborated with team members and delivered high-quality work ahead of deadlines.
 
@@ -144,90 +188,151 @@ Currently, I’m pursuing **MCA** and expanding my skills in **DevOps, cloud dep
 
 ---
 
-## 🛠️ Tech Arsenal
+<!-- ========================================================= -->
+
+<!--                         TECH STACK                        -->
+
+<!-- ========================================================= -->
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Frontend & UI
+### Frontend Engineering
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,threejs" />
 
 <br />
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,redis" />
-
 <br />
 
-### Tools, Cloud & DevOps
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer%20Motion-111111?style=for-the-badge&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radixui&logoColor=white" />
+<img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+
+<br />
+<br />
+
+### Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white" />
+
+<br />
+<br />
+
+### Database & Storage
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,redis" />
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+<img src="https://img.shields.io/badge/Schema%20Design-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Database%20Indexing-06B6D4?style=for-the-badge" />
+
+<br />
+<br />
+
+### DevOps, Cloud & Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vercel,postman,vscode" />
 
 <br />
+<br />
 
-### Also Working With
-
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CI%2FCD-Learning-38BDF8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud%20Deployment-Learning-2563EB?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AI%20Automation-06B6D4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
 
 </div>
 
 ---
 
+<!-- ========================================================= -->
+
+<!--                       PROJECT SHOWCASE                    -->
+
+<!-- ========================================================= -->
+
 ## 🚀 Featured Projects
 
-<table>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Real%20Projects-Resume%20Backed-22C55E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Performance%20%7C%20Scalability%20%7C%20UX-38BDF8?style=for-the-badge" />
+
+</div>
+
+<br />
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ## 🏢 North Tech Hub
 
-**High-performance MERN stack platform**
+<img src="https://img.shields.io/badge/MERN-Full%20Stack-38BDF8?style=flat-square" />
+<img src="https://img.shields.io/badge/Auth-JWT%20%2B%20OAuth-22C55E?style=flat-square" />
+<img src="https://img.shields.io/badge/Payments-Razorpay-2563EB?style=flat-square" />
 
-A scalable full-stack platform built with authentication, payments, optimized database structure, and production-ready backend architecture.
+<br />
+<br />
 
-**Key Features**
+A high-performance MERN stack platform built with secure authentication, optimized database architecture, payment integration, and scalable APIs.
 
-* 60+ REST API endpoints
-* JWT authentication
-* Google OAuth 2.0
-* Razorpay payment integration
-* HMAC-SHA256 webhook verification
-* MongoDB schema with 16 collections
-* Strategic indexing for faster queries
-* Cart and wishlist synchronization
-* Support for 1000+ concurrent users
+### Key Highlights
 
-**Tech Stack**
+* Built **60+ API endpoints** using MERN stack.
+* Integrated **JWT authentication** and **Google OAuth 2.0**.
+* Implemented **Razorpay payment gateway** with secure webhook verification.
+* Designed MongoDB schema with **16 collections** and strategic indexing.
+* Improved query performance by **45%**.
+* Enabled cart and wishlist synchronization across devices.
+* Built to support **1000+ concurrent users**.
+* Achieved sub-100ms response time architecture.
 
-`MongoDB` `Express.js` `React.js` `Node.js` `JWT` `OAuth` `Razorpay`
+### Stack
+
+`MongoDB` `Express.js` `React.js` `Node.js` `JWT` `OAuth 2.0` `Razorpay`
 
 </td>
+
 <td width="50%" valign="top">
 
 ## 🛒 Acharam E-Commerce Platform
 
-**Modern MERN e-commerce platform**
+<img src="https://img.shields.io/badge/E--Commerce-MERN-38BDF8?style=flat-square" />
+<img src="https://img.shields.io/badge/AI-Chatbot-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Performance-95%2B%20Lighthouse-22C55E?style=flat-square" />
 
-A fast, mobile-first e-commerce application designed for performance, customer engagement, and smooth shopping experience.
+<br />
+<br />
 
-**Key Features**
+A modern high-performance e-commerce platform built for speed, scalability, customer engagement, and mobile-first shopping experience.
 
-* Full-stack e-commerce architecture
-* AI-powered chatbot integration
-* 1000+ daily visitors support
-* 95+ Lighthouse performance score
-* Mobile-first responsive UI
-* Optimized checkout experience
-* Reduced cart abandonment by 25%
+### Key Highlights
 
-**Tech Stack**
+* Built a scalable e-commerce platform using **MongoDB, Express.js, React.js, and Node.js**.
+* Designed architecture to handle **1000+ daily visitors**.
+* Integrated an **AI-powered chatbot** for faster customer interaction.
+* Reduced chatbot response time to under **3 seconds**.
+* Achieved **95+ Lighthouse performance score**.
+* Improved mobile-first user experience.
+* Optimized checkout flow and reduced cart abandonment by **25%**.
 
-`MongoDB` `Express.js` `React.js` `Node.js` `AI Chatbot`
+### Stack
+
+`MongoDB` `Express.js` `React.js` `Node.js` `AI Chatbot` `Tailwind CSS`
 
 </td>
 </tr>
@@ -235,48 +340,58 @@ A fast, mobile-first e-commerce application designed for performance, customer e
 <tr>
 <td width="50%" valign="top">
 
-## 📄 Love File / iConverts
+## 📄 Love File
 
-**Full-stack image and PDF processing platform**
+<img src="https://img.shields.io/badge/File%20Tools-Image%20%26%20PDF-38BDF8?style=flat-square" />
+<img src="https://img.shields.io/badge/Framework-Next.js%2014-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/UI-Radix%20%2B%20Tailwind-06B6D4?style=flat-square" />
 
-A modern file utility platform for image conversion, PDF conversion, compression, and batch processing.
+<br />
+<br />
 
-**Key Features**
+A full-stack file conversion web application built for seamless image and PDF conversion with advanced processing capabilities.
 
-* Image and PDF conversion
-* Batch processing
-* Advanced file handling
-* Fast and scalable processing
-* Responsive UI
-* Accessible forms
-* Cross-browser optimization
-* 100% responsive experience
+### Key Highlights
 
-**Tech Stack**
+* Built a modern full-stack image and PDF tool platform.
+* Added image conversion, PDF conversion, compression, and advanced processing features.
+* Implemented batch processing to reduce processing time by **60%**.
+* Improved user satisfaction related to speed by **40%**.
+* Built accessible UI using **Radix UI, Tailwind CSS, and React Hook Form**.
+* Used **Next.js 14** and File Processing APIs for fast and scalable performance.
+* Achieved responsive experience across browsers and devices.
+
+### Stack
 
 `Next.js 14` `File Processing APIs` `Tailwind CSS` `Radix UI` `React Hook Form`
 
 </td>
+
 <td width="50%" valign="top">
 
 ## 🏗️ Chawla Arc
 
-**Architecture and real estate portfolio**
+<img src="https://img.shields.io/badge/Portfolio-Architecture%20%26%20Real%20Estate-38BDF8?style=flat-square" />
+<img src="https://img.shields.io/badge/3D-Three.js-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Animation-Framer%20Motion-7C3AED?style=flat-square" />
 
-A visually rich portfolio website with 3D interactions, smooth motion, and high-performance architecture.
+<br />
+<br />
 
-**Key Features**
+A modern real estate and architecture portfolio built with interactive 3D visuals, scroll animations, responsive design, and optimized performance.
 
-* Interactive 3D visuals
-* Scroll-based animations
-* Framer Motion effects
-* Three.js integration
-* Modern responsive UI
-* Vercel deployment
-* 95+ Lighthouse score
-* Under 2s initial page load
+### Key Highlights
 
-**Tech Stack**
+* Built a high-performance architecture portfolio using **Next.js and Three.js**.
+* Implemented immersive scroll-based animations.
+* Added interactive 3D visual sections for stronger brand presentation.
+* Increased user interaction time by **50%**.
+* Created responsive UI using **Framer Motion and Tailwind CSS**.
+* Deployed on **Vercel**.
+* Achieved **95+ Lighthouse performance score**.
+* Optimized initial page load to under **2 seconds**.
+
+### Stack
 
 `Next.js` `Three.js` `Framer Motion` `Tailwind CSS` `Vercel`
 
@@ -288,41 +403,58 @@ A visually rich portfolio website with 3D interactions, smooth motion, and high-
 
 ## ⚡ Averiq
 
-**Personal portfolio and brand showcase**
+<img src="https://img.shields.io/badge/Brand-Personal%20Portfolio-38BDF8?style=flat-square" />
+<img src="https://img.shields.io/badge/UI-Interactive%20Showcase-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/Leads-Formspree-22C55E?style=flat-square" />
 
-A high-performance personal brand platform focused on project presentation, lead generation, and premium UI experience.
+<br />
+<br />
 
-**Key Features**
+A high-performance personal portfolio and brand showcase focused on project presentation, smooth interactions, lead generation, and professional visibility.
 
-* Interactive project showcases
-* Smooth animations
-* Lead capture workflow
-* Formspree integration
-* Pixel-perfect responsive UI
-* Fast loading experience
-* Professional brand presentation
+### Key Highlights
 
-**Tech Stack**
+* Built a brand-centric portfolio website for professional visibility.
+* Created interactive project showcase sections.
+* Added smooth animations using **Framer Motion**.
+* Improved client engagement and project discovery.
+* Integrated **Formspree contact workflow** for lead capture.
+* Built responsive and pixel-perfect UI with **Tailwind CSS**.
+* Optimized for fast loading across devices.
+
+### Stack
 
 `Next.js` `Tailwind CSS` `Framer Motion` `Formspree`
 
 </td>
+
 <td width="50%" valign="top">
 
-## 🔥 More Projects Coming Soon
+## 🔬 Currently Building & Exploring
 
-Currently building and improving:
+<img src="https://img.shields.io/badge/Current-Focus-38BDF8?style=flat-square" />
+<img src="https://img.shields.io/badge/Learning-DevOps%20%2B%20Cloud-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/AI-Automation-7C3AED?style=flat-square" />
 
-* AI automation systems
-* SaaS-style dashboards
+<br />
+<br />
+
+I’m actively improving my development workflow and building deeper expertise in production-level engineering.
+
+### Current Focus
+
 * Scalable MERN applications
-* Client-facing business websites
-* Developer-focused tools
-* Production-ready backend systems
+* SaaS-style dashboards
+* AI automation systems
+* AI chatbot integrations
+* Docker-based development workflows
+* AWS deployment fundamentals
+* CI/CD pipelines
+* System design and backend architecture
 
-**Current Focus**
+### Areas
 
-`System Design` `DevOps` `Docker` `AWS` `CI/CD` `AI Agents`
+`System Design` `Docker` `AWS` `CI/CD` `AI Agents` `Automation`
 
 </td>
 </tr>
@@ -330,13 +462,116 @@ Currently building and improving:
 
 ---
 
+<!-- ========================================================= -->
+
+<!--                      ENGINEERING IMPACT                   -->
+
+<!-- ========================================================= -->
+
+## 📈 Engineering Impact
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td align="center" width="25%">
+<h2>50+</h2>
+<p><b>Production Components</b></p>
+<p>Reusable frontend modules built and integrated.</p>
+</td>
+<td align="center" width="25%">
+<h2>70%</h2>
+<p><b>UI Responsiveness</b></p>
+<p>Improved interface responsiveness and user experience.</p>
+</td>
+<td align="center" width="25%">
+<h2>30%</h2>
+<p><b>Load Time Reduced</b></p>
+<p>Optimized frontend performance and page speed.</p>
+</td>
+<td align="center" width="25%">
+<h2>60+</h2>
+<p><b>API Endpoints</b></p>
+<p>Built scalable backend API architecture.</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<h2>1000+</h2>
+<p><b>Concurrent Users</b></p>
+<p>Designed systems for high user traffic.</p>
+</td>
+<td align="center" width="25%">
+<h2>95+</h2>
+<p><b>Lighthouse Score</b></p>
+<p>Delivered fast, optimized production apps.</p>
+</td>
+<td align="center" width="25%">
+<h2>45%</h2>
+<p><b>Query Improvement</b></p>
+<p>Improved database performance with indexing.</p>
+</td>
+<td align="center" width="25%">
+<h2>25%</h2>
+<p><b>Checkout Improvement</b></p>
+<p>Improved cart and checkout experience.</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                      WHAT I BUILD                         -->
+
+<!-- ========================================================= -->
+
+## 🧩 What I Like Building
+
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
+
+### 🚀 Scalable Web Apps
+
+Full-stack platforms with clean architecture, secure authentication, optimized database design, and production-ready APIs.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🎨 Premium User Interfaces
+
+Modern, responsive, animated interfaces with clean layouts, smooth interactions, and strong visual experience.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🤖 AI-Powered Systems
+
+AI chatbot integrations, automation workflows, intelligent tools, and productivity-focused digital systems.
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                      GITHUB ANALYTICS                     -->
+
+<!-- ========================================================= -->
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jatinverma9728&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=E5E7EB" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jatinverma9728&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=E5E7EB&ring_color=38BDF8" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Jatinverma9728&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Jatinverma9728&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=E5E7EB&dates=94A3B8" />
 
 <br />
 <br />
@@ -349,73 +584,104 @@ Currently building and improving:
 
 ---
 
-## 🎯 Current Learning Path
+<!-- ========================================================= -->
 
-```yaml
-Current Focus:
-  Frontend:
-    - Advanced Next.js
-    - Performance Optimization
-    - Animation Systems
-    - Component Architecture
+<!--                        TROPHIES                           -->
 
-  Backend:
-    - Scalable REST APIs
-    - Authentication Systems
-    - Payment Workflows
-    - Database Optimization
-
-  DevOps:
-    - Docker
-    - AWS
-    - CI/CD Pipelines
-    - Cloud Deployment
-
-  AI:
-    - AI Agents
-    - AI Automations
-    - Chatbot Integration
-    - Workflow Automation
-```
-
----
-
-## 🧩 What I Like Building
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<h3>🚀 Scalable Apps</h3>
-<p>Full-stack applications with clean architecture and strong backend systems.</p>
-</td>
-<td align="center" width="33%">
-<h3>🎨 Premium UI</h3>
-<p>Modern, responsive, animated interfaces with smooth user experience.</p>
-</td>
-<td align="center" width="33%">
-<h3>🤖 AI Systems</h3>
-<p>AI-powered workflows, automation tools, and chatbot integrations.</p>
-</td>
-</tr>
-</table>
-
-</div>
-
----
+<!-- ========================================================= -->
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jatinverma9728&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Jatinverma9728&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+<!-- ========================================================= -->
+
+<!--                      LEARNING ROADMAP                     -->
+
+<!-- ========================================================= -->
+
+## 🎯 Current Learning Roadmap
+
+```yaml
+Frontend:
+  - Advanced Next.js
+  - Component Architecture
+  - Performance Optimization
+  - Animation Systems
+  - Responsive UI Engineering
+
+Backend:
+  - REST API Architecture
+  - Authentication Systems
+  - Payment Workflows
+  - Database Optimization
+  - Scalable Server Design
+
+DevOps:
+  - Docker
+  - AWS
+  - CI/CD Pipelines
+  - Linux
+  - Cloud Deployment
+
+AI:
+  - AI Agents
+  - AI Automations
+  - Chatbot Integration
+  - Workflow Automation
+```
+
+---
+
+<!-- ========================================================= -->
+
+<!--                         EDUCATION                         -->
+
+<!-- ========================================================= -->
+
+## 🎓 Education
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### Guru Jambheshwar University of Science and Technology
+
+**Master of Computer Applications**
+
+📍 Hisar, Haryana, India
+📅 August 2025 – May 2027
+
+</td>
+<td width="50%" valign="top">
+
+### Vaish College, Bhiwani
+
+**Bachelor of Computer Applications**
+
+📍 Haryana, India
+📅 May 2022 – May 2025
+🎯 CGPA: **7.9**
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                         CONNECT                           -->
+
+<!-- ========================================================= -->
+
+## 🤝 Let’s Connect
 
 <div align="center">
 
@@ -436,15 +702,35 @@ Current Focus:
 <br />
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:06B6D4,50:2563EB,100:020617&section=footer" width="100%" />
+<table>
+<tr>
+<td align="center">
+
+### “Great software is not just coded — it is designed, optimized, and engineered.”
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:06B6D4,50:1D4ED8,100:020617&section=footer" />
+
+<br />
+
+<sub>
+Designed with focus, performance, and clean engineering by 
+<a href="https://github.com/Jatinverma9728">Jatin Verma</a>
+</sub>
 
 </div>
 
 <!-- ========================================================= -->
 
-<!--                     END OF README                         -->
+<!--                         END README                        -->
 
 <!-- ========================================================= -->
-
-```
-```
