@@ -1,98 +1,71 @@
-<div align="center">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HEADER BANNER                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C7B7,100:007ACC&height=200&section=header&text=Jatin%20Verma&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%26%20Next.js&descAlignY=58&descSize=18&animation=fadeIn" />
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    TYPING ANIMATION                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+````md
+<!-- ========================================================= -->
+<!--                 JATIN VERMA — GITHUB README               -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00C7B7&center=true&vCenter=true&multiline=false&width=700&lines=%E2%9A%A1+Crafting+High-End+Digital+Experiences;%F0%9F%9A%80+Building+Scalable+Web+%26+Mobile+Apps;%F0%9F%A4%96+AI-Driven+Automation+Workflows;%F0%9F%8E%AF+Technical+SEO+%26+Programmatic+Ranking)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,45:0F172A,75:2563EB,100:06B6D4&text=Jatin%20Verma&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20Next.js%20%E2%80%A2%20Scalable%20Web%20Apps&descSize=18&descAlignY=58" width="100%" />
+
+<br />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Scalable+Full-Stack+Applications;Crafting+Modern+%26+High-Performance+UI;MERN+Stack+%7C+Next.js+%7C+TypeScript;Learning+DevOps%2C+Cloud+%26+System+Design)](https://git.io/typing-svg)
+
+<br />
+
+<a href="mailto:vermajatin477@gmail.com">
+  <img src="https://img.shields.io/badge/Email-vermajatin477%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/jatinverma9728/">
+  <img src="https://img.shields.io/badge/LinkedIn-Jatin%20Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Jatinverma9728">
+  <img src="https://img.shields.io/badge/GitHub-Jatinverma9728-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=Jatinverma9728&label=Profile%20Views&color=38bdf8&style=flat-square" />
 
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      SOCIAL BADGES                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-devjatin.in-00C7B7?style=for-the-badge&logoColor=white)](https://www.devjatin.in/)
-[![Agency](https://img.shields.io/badge/🏢_Agency-Averiq-0D1117?style=for-the-badge&logo=vercel&logoColor=00C7B7)](https://averiq.in/)
-[![Project](https://img.shields.io/badge/🔨_Building-NorthTechHub-007ACC?style=for-the-badge&logoColor=white)](https://www.northtechhub.in/)
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatinvermaa/)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Jatinverma9728)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/iamjatin_vrma)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/Q6ARqwAY)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vermajatin477@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Jatinverma9728&label=Profile+Views&color=00C7B7&style=flat-square)](https://github.com/Jatinverma9728)
-
-</div>
-
-<br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ABOUT ME SECTION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<table width="100%">
+<table>
 <tr>
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
-## 💫 About Me
-
-```typescript
-const jatin = {
-  name     : "Jatin Verma",
-  location : "India 🇮🇳",
-  education: "MCA (Master of Computer Applications)",
-  agency   : "Founder @ Averiq",
-  building : "NorthTechHub",
-
-  expertise: [
-    "Full-Stack Development",
-    "Cross-Platform Mobile Apps",
-    "AI Integration & Automation",
-    "Technical SEO & Programmatic Ranking",
-    "Premium UI/UX Design",
-  ],
-
-  currentStack: {
-    frontend : ["Next.js", "React", "TailwindCSS"],
-    backend  : ["Node.js", "Express", "Python"],
-    mobile   : ["React Native"],
-    database : ["MongoDB", "MySQL", "Supabase"],
-    cloud    : ["AWS", "GCP", "Firebase"],
-  },
-
-  motto: "Ship fast. Scale smart. Design beautifully."
+```ts
+const jatinVerma = {
+  role: "Full-Stack Developer",
+  focus: "Scalable Web Apps & Modern UI Engineering",
+  stack: ["MERN", "Next.js", "TypeScript", "Tailwind CSS"],
+  currentlyLearning: ["DevOps", "Docker", "AWS", "CI/CD", "System Design"],
+  mindset: "Build fast. Optimize deeply. Design beautifully.",
 };
-```
+````
+
+I’m a **Full-Stack Developer** focused on building scalable, high-performance, and user-friendly web applications.
+
+I work mainly with the **MERN Stack, Next.js, TypeScript, Tailwind CSS, MongoDB, Express.js, Node.js**, and modern frontend animation tools like **GSAP, Three.js, and Framer Motion**.
+
+Currently, I’m pursuing **MCA** and expanding my skills in **DevOps, cloud deployment, containerization, CI/CD pipelines, and scalable backend architecture**.
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="40%" valign="top">
 
-## 🏆 Achievements
+### ⚡ Quick Highlights
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jatinverma9728&theme=darkhub&no-frame=true&no-bg=true&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
-
-<br/>
-
-![Snake animation](https://raw.githubusercontent.com/Jatinverma9728/Jatinverma9728/output/github-contribution-grid-snake-dark.svg)
+* 🧑‍💻 Full-Stack Developer
+* 🚀 MERN & Next.js focused
+* 🧩 50+ production components built
+* ⚡ 70% UI responsiveness improvement
+* 📉 30% page load time reduction
+* 🔐 JWT, OAuth & Razorpay integration
+* ☁️ Learning DevOps, Docker & AWS
 
 </td>
 </tr>
@@ -100,133 +73,45 @@ const jatin = {
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB STATS (FIXED)                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jatinverma9728&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=007ACC&text_color=C9D1D9&ring_color=00C7B7&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Jatin's GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jatinverma9728&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00C7B7&ring=007ACC&fire=00C7B7&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=00C7B7&sideLabels=00C7B7&dates=8B949E" alt="Jatin's Streak"/>
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatinverma9728&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=C9D1D9&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
-
-<img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Jatinverma9728&bg_color=0D1117&color=00C7B7&line=007ACC&point=FFFFFF&area=true&area_color=00C7B720&hide_border=true" alt="Activity Graph"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 💻 Tech Stack
-
-<div align="center">
-
-**🎨 Frontend & Mobile**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-
-<br/>
-
-**⚙️ Backend & Database**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-<br/>
-
-**☁️ Cloud, DevOps & Tools**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    PROJECT SHOWCASE                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🚀 Featured Projects
+## 🧠 Professional Snapshot
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
-
-### 🛒 Accharam
-![E-commerce](https://img.shields.io/badge/E--Commerce-Platform-00C7B7?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
-
-Full-scale professional e-commerce platform with comprehensive admin backend. Built for performance, SEO, and conversion.
-
-**Stack:** `Next.js` `MongoDB` `Node.js` `Tailwind`
-
+<td align="center" width="25%">
+<h3>50+</h3>
+<p>Components Built</p>
 </td>
-<td width="50%">
-
-### 📱 AverWalls
-![Mobile](https://img.shields.io/badge/React_Native-App-61DAFB?style=flat-square)
-![AI](https://img.shields.io/badge/AI-Powered-FF6B6B?style=flat-square)
-
-Cross-platform mobile app delivering high-quality AI-generated wallpapers with smooth UX and real-time content.
-
-**Stack:** `React Native` `AI APIs` `Firebase`
-
+<td align="center" width="25%">
+<h3>70%</h3>
+<p>UI Responsiveness Improved</p>
+</td>
+<td align="center" width="25%">
+<h3>30%</h3>
+<p>Load Time Reduced</p>
+</td>
+<td align="center" width="25%">
+<h3>60+</h3>
+<p>API Endpoints Built</p>
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-### 🧾 Campus Canteen POS
-![POS](https://img.shields.io/badge/Offline--First-POS_System-007ACC?style=flat-square)
-![Mobile](https://img.shields.io/badge/Native-Mobile-success?style=flat-square)
-
-Offline-first native mobile POS for billing and order tracking. Works without internet — built for reliability.
-
-**Stack:** `React Native` `SQLite` `Node.js`
-
+<td align="center" width="25%">
+<h3>1000+</h3>
+<p>Users Supported</p>
 </td>
-<td width="50%">
-
-### 🔄 iconverts
-![Utility](https://img.shields.io/badge/File-Utility-FF9900?style=flat-square)
-![Web](https://img.shields.io/badge/Web-Platform-00C7B7?style=flat-square)
-
-Robust file utility platform for seamless image and PDF conversions. Fast, free, and privacy-focused.
-
-**Stack:** `Next.js` `Python` `Node.js` `Sharp`
-
+<td align="center" width="25%">
+<h3>95+</h3>
+<p>Lighthouse Score</p>
+</td>
+<td align="center" width="25%">
+<h3>16</h3>
+<p>MongoDB Collections</p>
+</td>
+<td align="center" width="25%">
+<h3>5+</h3>
+<p>Payment Methods</p>
 </td>
 </tr>
 </table>
@@ -235,53 +120,331 @@ Robust file utility platform for seamless image and PDF conversions. Fast, free,
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   WHAT I'M WORKING ON                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## 💼 Experience
 
-## 🔭 Currently Working On
+<table>
+<tr>
+<td>
 
-```
-🏗️  Averiq          →  Building high-performance web & mobile products for clients
-🌐  NorthTechHub    →  Expanding into a full-fledged tech community & resource hub
-🤖  AI Workflows    →  Integrating AI automation into production-grade apps
-📈  Technical SEO   →  Programmatic ranking strategies for scalable organic growth
-```
+### Frontend Developer Intern & Team Lead — SmallFare
+
+**March 2025 – June 2025**
+
+* Led frontend development initiatives and contributed to a better website experience.
+* Developed and integrated **50+ modular UI components**.
+* Improved UI responsiveness by **70%**.
+* Reduced website load time by **30%**.
+* Built smooth animations, responsive layouts, and modern interfaces.
+* Worked with **React.js, Next.js, TypeScript, Tailwind CSS, HTML, CSS, and JavaScript**.
+* Collaborated with team members and delivered high-quality work ahead of deadlines.
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    LET'S CONNECT                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🤝 Let's Connect & Build Something Great
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-> *"Great software is crafted — not just coded."*
+### Frontend & UI
 
-<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,threejs" />
 
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-devjatin.in-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.devjatin.in/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vermajatin477@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatinvermaa/)
+<br />
 
-<br/>
+### Backend & Database
 
-**Open to:** Freelance Projects · Collaboration · Consulting · Full-Time Opportunities
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,redis" />
+
+<br />
+
+### Tools, Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vercel,postman,vscode" />
+
+<br />
+
+### Also Working With
+
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Automation-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      FOOTER WAVE                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## 🚀 Featured Projects
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,50:00C7B7,100:0D1117&height=120&section=footer&animation=fadeIn" />
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🏢 North Tech Hub
+
+**High-performance MERN stack platform**
+
+A scalable full-stack platform built with authentication, payments, optimized database structure, and production-ready backend architecture.
+
+**Key Features**
+
+* 60+ REST API endpoints
+* JWT authentication
+* Google OAuth 2.0
+* Razorpay payment integration
+* HMAC-SHA256 webhook verification
+* MongoDB schema with 16 collections
+* Strategic indexing for faster queries
+* Cart and wishlist synchronization
+* Support for 1000+ concurrent users
+
+**Tech Stack**
+
+`MongoDB` `Express.js` `React.js` `Node.js` `JWT` `OAuth` `Razorpay`
+
+</td>
+<td width="50%" valign="top">
+
+## 🛒 Acharam E-Commerce Platform
+
+**Modern MERN e-commerce platform**
+
+A fast, mobile-first e-commerce application designed for performance, customer engagement, and smooth shopping experience.
+
+**Key Features**
+
+* Full-stack e-commerce architecture
+* AI-powered chatbot integration
+* 1000+ daily visitors support
+* 95+ Lighthouse performance score
+* Mobile-first responsive UI
+* Optimized checkout experience
+* Reduced cart abandonment by 25%
+
+**Tech Stack**
+
+`MongoDB` `Express.js` `React.js` `Node.js` `AI Chatbot`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 📄 Love File / iConverts
+
+**Full-stack image and PDF processing platform**
+
+A modern file utility platform for image conversion, PDF conversion, compression, and batch processing.
+
+**Key Features**
+
+* Image and PDF conversion
+* Batch processing
+* Advanced file handling
+* Fast and scalable processing
+* Responsive UI
+* Accessible forms
+* Cross-browser optimization
+* 100% responsive experience
+
+**Tech Stack**
+
+`Next.js 14` `File Processing APIs` `Tailwind CSS` `Radix UI` `React Hook Form`
+
+</td>
+<td width="50%" valign="top">
+
+## 🏗️ Chawla Arc
+
+**Architecture and real estate portfolio**
+
+A visually rich portfolio website with 3D interactions, smooth motion, and high-performance architecture.
+
+**Key Features**
+
+* Interactive 3D visuals
+* Scroll-based animations
+* Framer Motion effects
+* Three.js integration
+* Modern responsive UI
+* Vercel deployment
+* 95+ Lighthouse score
+* Under 2s initial page load
+
+**Tech Stack**
+
+`Next.js` `Three.js` `Framer Motion` `Tailwind CSS` `Vercel`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## ⚡ Averiq
+
+**Personal portfolio and brand showcase**
+
+A high-performance personal brand platform focused on project presentation, lead generation, and premium UI experience.
+
+**Key Features**
+
+* Interactive project showcases
+* Smooth animations
+* Lead capture workflow
+* Formspree integration
+* Pixel-perfect responsive UI
+* Fast loading experience
+* Professional brand presentation
+
+**Tech Stack**
+
+`Next.js` `Tailwind CSS` `Framer Motion` `Formspree`
+
+</td>
+<td width="50%" valign="top">
+
+## 🔥 More Projects Coming Soon
+
+Currently building and improving:
+
+* AI automation systems
+* SaaS-style dashboards
+* Scalable MERN applications
+* Client-facing business websites
+* Developer-focused tools
+* Production-ready backend systems
+
+**Current Focus**
+
+`System Design` `DevOps` `Docker` `AWS` `CI/CD` `AI Agents`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <sub>Designed with ❤️ by <a href="https://www.devjatin.in/">Jatin Verma</a> · Powered by passion & caffeine ☕</sub>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jatinverma9728&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=E5E7EB" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Jatinverma9728&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+
+<br />
+<br />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatinverma9728&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E5E7EB" />
+
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jatinverma9728&bg_color=020617&color=E5E7EB&line=38BDF8&point=FFFFFF&area=true&hide_border=true" />
+
 </div>
+
+---
+
+## 🎯 Current Learning Path
+
+```yaml
+Current Focus:
+  Frontend:
+    - Advanced Next.js
+    - Performance Optimization
+    - Animation Systems
+    - Component Architecture
+
+  Backend:
+    - Scalable REST APIs
+    - Authentication Systems
+    - Payment Workflows
+    - Database Optimization
+
+  DevOps:
+    - Docker
+    - AWS
+    - CI/CD Pipelines
+    - Cloud Deployment
+
+  AI:
+    - AI Agents
+    - AI Automations
+    - Chatbot Integration
+    - Workflow Automation
+```
+
+---
+
+## 🧩 What I Like Building
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>🚀 Scalable Apps</h3>
+<p>Full-stack applications with clean architecture and strong backend systems.</p>
+</td>
+<td align="center" width="33%">
+<h3>🎨 Premium UI</h3>
+<p>Modern, responsive, animated interfaces with smooth user experience.</p>
+</td>
+<td align="center" width="33%">
+<h3>🤖 AI Systems</h3>
+<p>AI-powered workflows, automation tools, and chatbot integrations.</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Jatinverma9728&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+### Open to internships, freelance projects, collaborations, and full-stack development opportunities.
+
+<br />
+
+<a href="mailto:vermajatin477@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/jatinverma9728/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Jatinverma9728">
+  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br />
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:06B6D4,50:2563EB,100:020617&section=footer" width="100%" />
+
+</div>
+
+<!-- ========================================================= -->
+
+<!--                     END OF README                         -->
+
+<!-- ========================================================= -->
+
+```
+```
